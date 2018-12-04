@@ -1,0 +1,183 @@
+* {
+    font-weight: 210;
+}
+.city {
+    text-align: center;
+    color: brown;
+    padding-top: 10px;
+}
+.bilan {
+    letter-spacing: 4px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 33%;
+    position: absolute;
+    right: 34%;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.info {
+    width: 33%;
+    position: absolute;
+    bottom: 76%;
+    right: 34%;
+    text-align: center;
+
+}
+.lazo {
+    position: absolute;
+    right: 54%;
+    top: 24%;
+}
+.lazo1 {
+    border-bottom: 1px solid black;
+    position: absolute;
+    bottom: 50%;
+    right: 30%;
+    width: 35%;
+    text-align: right;
+    font-size: 17px;
+    border-collapse: collapse;  
+}
+.lazo2 {
+    text-align: right;
+    position: absolute;
+    bottom: 38%;
+    right: 30%;
+    width: 35%;
+    text-transform: uppercase;
+}
+.lazo3 {
+    position: absolute;
+    top: 80%;
+    right: 28%;
+}
+.lazo4 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 30px;
+    position: absolute;
+    top: 90%;
+    left: 18.2%;
+    border-bottom: 1px solid black;
+    width: 25%;
+}
+.lazo5 {
+    position: absolute;
+    top: 96%;
+    left: 18.2%;
+    width: 25%;
+}
+.lazo6 {
+    position: absolute;
+    top: 136%;
+    left: 18.2%;
+}
+.lazo7 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 30px;
+    border-bottom: 1px solid black;
+    width: 25%;
+    position: absolute;
+    top: 150%;
+    right: 28%;
+}
+.lazo8 {
+    width: 25%;
+    position: absolute;
+    top: 156%;
+    right: 28%;
+}
+.lazo9 {
+    position: absolute;
+    top: 186.2%;
+    right: 28.1%;
+    
+}
+.lazo10 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 30px;
+    border-bottom: 1px solid black;
+    width: 25%;
+    position: absolute;
+    top: 198.2%;
+    left: 18.2%;
+}
+.lazo11 { 
+    width: 25%;
+    position: absolute;
+    top: 204.2%;
+    left: 18.2%;
+}
+.lazo12 {
+    position: absolute;
+    top: 242%;
+    left: 18.2%;
+}
+.lazo13 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 30px;
+    border-bottom: 1px solid black;
+    width: 25%;
+    position: absolute;
+    top: 251%;
+    right: 28.1%;
+}
+.lazo14 {
+    font-style: italic;
+    width: 25%;
+    position: absolute;
+    top: 257%;
+    right: 28.1%;
+}
+.lazo15 {
+    opacity: 1;
+    position: absolute;
+    top: 302.5%;
+    right: 48%;
+    letter-spacing: 4px;
+    color: gray;
+}
+.lazo16 {
+    position: absolute;
+    top: 300%;
+    right: 48%;
+}
+.lazo17 {
+    letter-spacing: 4px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 33%;
+    position: absolute;
+    top: 315%;
+    right: 34%;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.lazo18 {
+    position: absolute;
+    top: 320%;
+    right: 40%;
+    text-align: center;
+    text-transform: uppercase;
+}
+.lazo19 {
+    position: absolute;
+    top: 322%;
+    right: 48%;
+    text-align: center;
+    text-transform: uppercase;
+}
+.lazo20 {
+    position: absolute;
+    top: 324%;
+    right: 43%;
+    text-align: center;
+    font-size: 18px;
+}
+
